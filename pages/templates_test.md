@@ -7,3 +7,4 @@ title: templates test
 :template: day
 :END:
 ### tasks
+###
