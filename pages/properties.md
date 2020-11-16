@@ -2,11 +2,6 @@
 title: properties
 ---
 
-## CLJ
-:Composer:  J.S. Bach
-:Artist:    Glenn Gould
-:Publisher: Deutsche Grammophon
-:NDisks:    1
 ##
 ##
 #+BEGIN_QUERY
