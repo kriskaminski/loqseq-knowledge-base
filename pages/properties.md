@@ -2,7 +2,7 @@
 title: properties
 ---
 
-## Clojure
+## C
 ## CLJ
 ##
 #+BEGIN_QUERY
