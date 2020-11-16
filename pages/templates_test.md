@@ -25,7 +25,7 @@ title: templates test
 :END:
 ##
 #+BEGIN_QUERY
-{:title [:h2 "Programming languages list"]
+{:title "Programming languages list"
  :query [:find (pull ?b [*])
          :where
          [?b :block/properties ?p]
