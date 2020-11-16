@@ -8,6 +8,11 @@ title: templates test
 :END:
 ### tasks
 ### Day
+### ttt
+:PROPERTIES:
+:props: working 
+:END:
+###
 ## Terry
 :PROPERTIES:
 :author: Pratchett
