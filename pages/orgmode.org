@@ -1,4 +1,6 @@
 #+author: TEC
+#+PUBLIC: true
+
 ** Block with props
 ** Mode
 :PROPERTIES:
