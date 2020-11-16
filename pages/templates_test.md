@@ -13,4 +13,7 @@ title: templates test
 :author: Pratchett
 :END:
 ## Tiffany
+:PROPERTIES:
+:author: Pratchett
+:END:
 ##
