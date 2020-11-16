@@ -14,6 +14,6 @@ title: properties
          :where
          [?b :block/properties ?p]
          [(get ?p "type") ?t]
-         [(= "myprop" ?t)]]
+         [(= "Composer" ?t)]]
  }
 #+END_QUERY
