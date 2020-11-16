@@ -3,6 +3,11 @@ title: properties
 ---
 
 ## CLJ
+:Title:     Goldberg Variations
+    :Composer:  J.S. Bach
+    :Artist:    Glenn Gould
+    :Publisher: Deutsche Grammophon
+    :NDisks:    1
 ##
 #+BEGIN_QUERY
 {:title [:h2 "myprop list"]
