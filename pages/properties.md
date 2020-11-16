@@ -3,7 +3,7 @@ title: properties
 ---
 
 ## Clojure
-##
+## CLJ
 ##
 #+BEGIN_QUERY
 {:title [:h2 "myprop list"]
