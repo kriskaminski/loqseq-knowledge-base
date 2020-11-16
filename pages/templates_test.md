@@ -11,6 +11,7 @@ title: templates test
 ## Terry
 :PROPERTIES:
 :author: Pratchett
+:book: all
 :END:
 ## Tiffany
 :PROPERTIES:
