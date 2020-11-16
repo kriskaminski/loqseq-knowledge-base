@@ -3,7 +3,6 @@ title: properties
 ---
 
 ## CLJ
-:Title:     Goldberg Variations
     :Composer:  J.S. Bach
     :Artist:    Glenn Gould
     :Publisher: Deutsche Grammophon
