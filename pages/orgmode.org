@@ -1,6 +1,6 @@
 #+author: TEC
 ** Block with props
-**
+** Mode
 :PROPERTIES:
 :mode: org 
 :END:
