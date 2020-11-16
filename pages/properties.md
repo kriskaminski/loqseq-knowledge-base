@@ -2,7 +2,8 @@
 title: properties
 ---
 
-##
+## re
+## propblock
 ##
 #+BEGIN_QUERY
 {:title [:h2 "myprop list"]
