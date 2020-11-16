@@ -2,7 +2,6 @@
 title: properties
 ---
 
-## C
 ## CLJ
 ##
 #+BEGIN_QUERY
