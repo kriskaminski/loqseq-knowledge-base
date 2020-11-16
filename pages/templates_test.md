@@ -16,6 +16,7 @@ title: templates test
 ## Tiffany
 :PROPERTIES:
 :author: Pratchett
+:book: Kapelusz pełen nieba
 :END:
 ##
 #+BEGIN_QUERY
