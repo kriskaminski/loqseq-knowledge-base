@@ -3,10 +3,10 @@ title: properties
 ---
 
 ## CLJ
-    :Composer:  J.S. Bach
-    :Artist:    Glenn Gould
-    :Publisher: Deutsche Grammophon
-    :NDisks:    1
+:Composer:  J.S. Bach
+:Artist:    Glenn Gould
+:Publisher: Deutsche Grammophon
+:NDisks:    1
 ##
 #+BEGIN_QUERY
 {:title [:h2 "myprop list"]
