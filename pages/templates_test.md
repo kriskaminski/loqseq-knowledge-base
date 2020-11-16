@@ -8,3 +8,7 @@ title: templates test
 :END:
 ### tasks
 ### Day
+## Terry
+:PROPERTIES:
+:author: Pratchett
+:END:
