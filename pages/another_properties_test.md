@@ -8,4 +8,7 @@ title: another properties test
 :testprop: works 
 :END:
 ## game
+:PROPERTIES:
+:thisshouldworktoo: works 
+:END:
 ##
