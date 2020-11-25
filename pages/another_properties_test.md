@@ -7,3 +7,5 @@ title: another properties test
 :PROPERTIES:
 :testprop: works 
 :END:
+## game
+##
