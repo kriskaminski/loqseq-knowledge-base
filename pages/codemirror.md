@@ -7,3 +7,8 @@ title: codemirror
 console.log("HI")
 ```
 ##
+##
+```python
+print("yo python")
+```
+##
