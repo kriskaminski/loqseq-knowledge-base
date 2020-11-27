@@ -16,3 +16,5 @@ tags: page1, page2
 tags: page1, page2
 ---
 #+END_EXAMPLE
+## #tags can be used in text
+## They are like wikilinks
