@@ -31,7 +31,7 @@ title: Programming languages
 #+END_QUERY
 ##
 #+BEGIN_QUERY
-{:title [:h2 "Block tag list"]
+{:title "Block tag list"]
  :query [:find (pull ?b [*])
          :where
          [?b :block/properties ?p]
