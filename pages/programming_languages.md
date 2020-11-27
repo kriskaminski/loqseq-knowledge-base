@@ -31,9 +31,11 @@ title: Programming languages
 #+END_QUERY
 ##
 #+BEGIN_QUERY
-{:title "All block tags"
+{:title [:h2 "Block tag list"]
  :query [:find (pull ?b [*])
          :where
-         [?b :block/tag ?tag]
-         [(= "TODO" ?tag)]]}
+         [?b :block/properties ?p]
+         [(get ?p "type") ?t]
+         [(= "programming_lang" ?t)]]
+ }
 #+END_QUERY
