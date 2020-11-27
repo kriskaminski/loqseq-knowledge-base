@@ -43,3 +43,10 @@ title: Programming languages
  }
 #+END_QUERY
 ##
+#+BEGIN_QUERY
+{:title "All page tags"
+:query [:find ?tag-name
+        :where
+        [?tag :tag/name ?tag-name]]
+}
+#+END_QUERY
