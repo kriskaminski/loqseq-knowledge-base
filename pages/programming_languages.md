@@ -29,19 +29,12 @@ title: Programming languages
            [:a.tag.mr-1 {:href (str "/page/" tag)}
             (str "#" tag)])])}
 #+END_QUERY
-##
-#+BEGIN_QUERY
+## #+BEGIN_QUERY
 {:title "Block tag list"]
  :query [:find (pull ?b [*])
          :where
-         [?tag :block/tags ?tag]
- :view (fn [btags]
-        [:div#query-all-block-tags
-         (for [tag (flatten tags)]
-           [:a.tag.mr-1 {:href (str "/page/" tag)}
-            (str "#" tag)])])
- }
-#+END_QUERY
+         [?t :block/tags ?t]
+##
 ##
 #+BEGIN_QUERY
 {:title "All page tags"
