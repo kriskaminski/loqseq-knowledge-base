@@ -35,7 +35,7 @@ title: Programming languages
  :query [:find (pull ?b [*])
          :where
          [?tag :block/tags ?tag]
- :view (fn [tags]
+ :view (fn [btags]
         [:div#query-all-block-tags
          (for [tag (flatten tags)]
            [:a.tag.mr-1 {:href (str "/page/" tag)}
