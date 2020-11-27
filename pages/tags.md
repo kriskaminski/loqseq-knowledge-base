@@ -18,3 +18,7 @@ tags: page1, page2
 #+END_EXAMPLE
 ## #tags can be used in text
 ## They are like wikilinks
+## Multiword tags
+### #[[roam-like tags]]
+###
+###
