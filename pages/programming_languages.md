@@ -29,3 +29,11 @@ title: Programming languages
            [:a.tag.mr-1 {:href (str "/page/" tag)}
             (str "#" tag)])])}
 #+END_QUERY
+##
+#+BEGIN_QUERY
+{:title "All block tags"
+ :query [:find (pull ?b [*])
+         :where
+         [?b :block/tag ?tag]
+         [(= "TODO" ?tag)]]}
+#+END_QUERY
