@@ -34,8 +34,12 @@ title: Programming languages
 {:title "Block tag list"]
  :query [:find (pull ?b [*])
          :where
-         [?b :block/properties ?p]
-         [(get ?p "type") ?t]
-         [(= "programming_lang" ?t)]]
+         [?tag :block/tags ?tag]
+ :view (fn [tags]
+        [:div#query-all-block-tags
+         (for [tag (flatten tags)]
+           [:a.tag.mr-1 {:href (str "/page/" tag)}
+            (str "#" tag)])])
  }
 #+END_QUERY
+##
