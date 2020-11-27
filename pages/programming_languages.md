@@ -11,7 +11,7 @@ title: Programming languages
          [?t :tag/name ?tag]
          [?p :page/tags ?t]
          [?p :page/name ?name]]
- :inputs ["programming language"]
+ :inputs ["programming-language"]
  :view (fn [result]
          [:div.flex.flex-col
           (for [page result]
