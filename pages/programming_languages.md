@@ -17,3 +17,16 @@ title: Programming languages
           (for [page result]
             [:a {:href (str "/page/" page)} (clojure.string/capitalize page)])])}
 #+END_QUERY
+##
+#+BEGIN_QUERY
+{:title "All page tags"
+:query [:find ?tag-name
+        :where
+        [?tag :tag/name ?tag-name]]
+:view (fn [tags]
+        [:div#query-all-page-tags
+         (for [tag (flatten tags)]
+           [:a.tag.mr-1 {:href (str "/page/" tag)}
+            (str "#" tag)])])}
+#+END_QUERY
+##
