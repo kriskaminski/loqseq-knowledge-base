@@ -33,7 +33,8 @@ title: Programming languages
 {:title "Block tag list"]
  :query [:find (pull ?b [*])
          :where
-         [?b :block/tags ?t]
+         [?b :block/tags ?t]]}
+##
 ##
 ##
 ##
