@@ -4,7 +4,7 @@ title: Programming languages
 
 ##
 #+BEGIN_QUERY
-{:title "All pages have a *programming language* tag"
+{:title "All pages have a programming language tag"
  :query [:find ?name
          :in $ ?tag
          :where
