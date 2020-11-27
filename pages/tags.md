@@ -20,5 +20,6 @@ tags: page1, page2
 ## They are like wikilinks
 ## Multiword tags
 ### #[[roam-like tags]]
+### #multi-word-tags
 ###
 ###
