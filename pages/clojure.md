@@ -1,5 +1,6 @@
 ---
 title: Clojure
+tags: programming language
 ---
 
 ## Clojure is a modern, dynamic, and functional dialect of the Lisp programming language on the Java platform.
