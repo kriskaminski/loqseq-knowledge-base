@@ -29,4 +29,3 @@ title: Programming languages
            [:a.tag.mr-1 {:href (str "/page/" tag)}
             (str "#" tag)])])}
 #+END_QUERY
-##
