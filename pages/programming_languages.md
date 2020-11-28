@@ -42,7 +42,7 @@ title: Programming languages
  :query [:find (pull ?b [*])
          :where
          [?b :block/tags ?marker]
-         [(= "devops" ?marker)]]}
+         [(= "#devops" ?marker)]]}
 #+END_QUERY
 ## doker #devops
 ## kubernetes #devops
