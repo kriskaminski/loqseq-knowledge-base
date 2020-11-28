@@ -47,7 +47,7 @@ title: Programming languages
 ## kubernetes #devops
 ##
 #+BEGIN_QUERY
-{:title "devops"
+{:title "Blocks with #devops tag"
  :query [:find (pull ?b [*])
          :where
          [?b :block/ref-pages ?p]
