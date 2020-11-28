@@ -37,6 +37,13 @@ title: Programming languages
          [?b :block/tags ?t]]}
 #+END_QUERY
 ##
+#+BEGIN_QUERY
+{:title "TODO"
+ :query [:find (pull ?b [*])
+         :where
+         [?b :block/tags ?marker]
+         [(= "devops" ?marker)]]}
+#+END_QUERY
 ## doker #devops
 ## kubernetes #devops
 ##
