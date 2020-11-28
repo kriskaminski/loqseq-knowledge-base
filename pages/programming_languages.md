@@ -37,8 +37,8 @@ title: Programming languages
          [?b :block/tags ?t]]}
 #+END_QUERY
 ##
-##
-##
+## doker #devops
+## kubernetes #devops
 ##
 ##
 #+BEGIN_QUERY
