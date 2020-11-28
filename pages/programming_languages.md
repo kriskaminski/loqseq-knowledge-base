@@ -38,11 +38,11 @@ title: Programming languages
 #+END_QUERY
 ##
 #+BEGIN_QUERY
-{:title "TODO"
+{:title "DEVOPS"
  :query [:find (pull ?b [*])
          :where
          [?b :block/tags ?tag]
-         [(= "#devops" ?tag)]]}
+         ]}
 #+END_QUERY
 ## doker #devops
 ## kubernetes #devops
