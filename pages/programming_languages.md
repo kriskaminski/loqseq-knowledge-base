@@ -47,7 +47,7 @@ title: Programming languages
 ## kubernetes #devops
 ##
 #+BEGIN_QUERY
-{:title "All blocks tagged with p0 and home"
+{:title "devops"
  :query [:find (pull ?b [*])
          :where
          [?b :block/ref-pages ?p]
