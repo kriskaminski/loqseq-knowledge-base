@@ -45,14 +45,13 @@ title: Programming languages
 #+END_QUERY
 ## doker #devops
 ## kubernetes #devops
-## {:title "All blocks tagged with p0 and home"
+##
+#+BEGIN_QUERY
+{:title "All blocks tagged with p0 and home"
  :query [:find (pull ?b [*])
          :where
-         [?p :page/name "p0"]
          [?b :block/ref-pages ?p]
-         [?b0 :block/children ?b]
-         [?b0 :block/ref-pages ?p0]
-         [?p0 :page/name "home"]]}
+         [?p :page/name "devops"]]}
 #+END_QUERY
 ##
 #+BEGIN_QUERY
