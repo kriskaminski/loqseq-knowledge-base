@@ -23,3 +23,6 @@ Na to należy zwrócić uwagę
 Uwaga, coś może być nie tak
 #+END_WARNING
 ##
+#+BEGIN_EXPORT latex
+
+#+END_EXPORT
