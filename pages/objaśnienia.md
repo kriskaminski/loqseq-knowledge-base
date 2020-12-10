@@ -14,4 +14,12 @@ Wskazówki
 #+BEGIN_IMPORTANT
 Ważne informacje
 #+END_IMPORTANT
-## Cautio
+## Caution
+#+BEGIN_CAUTION
+Na to należy zwrócić uwagę
+#+END_CAUTION
+## Warning
+#+BEGIN_WARNING
+Uwaga, coś może być nie tak
+#+END_WARNING
+##
