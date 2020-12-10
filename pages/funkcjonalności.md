@@ -7,6 +7,7 @@ title: funkcjonalności
 ## [[odniesienia do bloków]]
 ## [[osadzanie bloków]]
 ## [[właściwości bloków]]
+## [[bloki z kodem]]
 ## [[osadzanie stron]]
 ## [[zadania]]
 ## [[graf]]
