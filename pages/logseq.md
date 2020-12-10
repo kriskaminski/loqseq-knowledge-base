@@ -15,7 +15,6 @@ title: Logseq
 ## Inspiracje
 ###
 ## Logseq czerpie inspiracje następujących projektów
-## Logseq czerpie inspiracje następujących projektów
 ### [[Roam Research]]
 ### [[Tiddlywiki]]
 ### [[Org mode]]
