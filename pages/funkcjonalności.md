@@ -11,7 +11,7 @@ title: funkcjonalności
 ## [[graf]]
 ## [[właściwości bloków]]
 ## [[prezentacje]]
-## [[rysowanie]] - dzięki wykorzystaniu [[Excalidraw]]
+## [[rysowanie]] - ((5fd20d08-c59e-43ab-90e8-dff99eb105a2))
 ## [[objaśnienia]] (eng. admonitions) to bloki
 ## [[aliasy stron]]
 ## [[szablony]]
