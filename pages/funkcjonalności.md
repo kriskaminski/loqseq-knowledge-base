@@ -8,4 +8,7 @@ title: funkcjonalności
 ## [[osadzanie bloków]]
 ## [[osadzanie stron]]
 ## [[zadania]]
+## [[graf]]
+## [[właściwości bloków]]
+## [[prezentacje]]
 ##
