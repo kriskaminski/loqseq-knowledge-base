@@ -13,7 +13,7 @@ title: Logseq
 ### jest to funkcjonalność ekperymentalna
 ## Docelowo podobnie jak np. [[Tiddlywiki]] ma mieć formę pojedynczego pliku html, który można uruchomić lokalnie bądź umieścić na dowolnym serwerze
 ## [[Inspiracje]]
-###
+### ((5fd20e38-a2ef-406e-ab8f-aea21adca5d3))
 ## Logseq czerpie inspiracje następujących projektów
 ### [[Roam Research]]
 ### [[Tiddlywiki]]
