@@ -2,5 +2,4 @@
 title: graf
 ---
 
-## {{{embed [[graph]]}}}
 ##
