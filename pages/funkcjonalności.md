@@ -18,4 +18,3 @@ title: funkcjonalności
 ## [[makra]]
 ## [[zapytania]]
 ## [[latex]]
-##
