@@ -12,6 +12,9 @@ title: Logseq
 ## Dane mogą być też przechowywane na komputerze w formie plików tekstowych
 ### jest to funkcjonalność ekperymentalna
 ## Docelowo podobnie jak np. [[Tiddlywiki]] ma mieć formę pojedynczego pliku html, który można uruchomić lokalnie bądź umieścić na dowolnym serwerze
+## Inspiracje
+###
+## Logseq czerpie inspiracje następujących projektów
 ## Logseq czerpie inspiracje następujących projektów
 ### [[Roam Research]]
 ### [[Tiddlywiki]]
