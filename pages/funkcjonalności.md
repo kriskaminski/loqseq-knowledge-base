@@ -3,7 +3,7 @@ title: funkcjonalności
 ---
 
 ## [[backlinki]] - tworzenie stron i dwustronnych odnośników w trakcie pisania
-## [[tagi]]
+## [[tagi]] - tagi (#tagi)
 ## [[odniesienia do bloków]]
 ## [[osadzanie bloków]]
 ## [[osadzanie stron]]
@@ -12,7 +12,7 @@ title: funkcjonalności
 ## [[właściwości bloków]]
 ## [[prezentacje]]
 ## [[rysowanie]] - dzięki wykorzystaniu [[Excalidraw]]
-##
+## [[]]
 ## [[aliasy stron]]
 ## [[szablony]]
 ## [[motywy]]
