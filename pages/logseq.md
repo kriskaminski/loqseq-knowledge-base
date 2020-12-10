@@ -2,5 +2,5 @@
 title: Logseq
 ---
 
-## Logseq jest outlinerem (outline - konspekt)
+## Logseq jest darmowym i open source'owym outlinerem (outline - konspekt)
 ## Działa w przegląda
