@@ -6,7 +6,8 @@ title: objaśnienia
 #+BEGIN_TIP
 Wskazówki
 #+END_TIP
+## Important
+#+BEGIN_IMPORTANT
+Ważne informacje
+#+END_IMPORTANT
 ##
-#+BEGIN_TIP
-treść
-#+END_TIP
