@@ -16,4 +16,4 @@ title: Logseq
 ### [[Roam Research]]
 ### [[Tiddlywiki]]
 ### [[Org mode]]
-##
+## Logseq ma dużo [[funkcjonalności]], które pomagają w budowaniu i rozwoju bazy wiedzy:
