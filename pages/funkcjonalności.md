@@ -14,4 +14,5 @@ title: funkcjonalności
 ## [[rysowanie]] - dzięki wykorzystaniu [[Excalidraw]]
 ## [[aliasy stron]]
 ## [[szablony]]
+## [[motywy]]
 ##
