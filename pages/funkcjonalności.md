@@ -6,6 +6,7 @@ title: funkcjonalności
 ## [[tagi]] - #tagi działąją identycznie jak [[backlinki]]
 ## [[odniesienia do bloków]]
 ## [[osadzanie bloków]]
+## [[bloki z kodem]]
 ## [[osadzanie stron]]
 ## [[zadania]]
 ## [[graf]]
