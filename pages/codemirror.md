@@ -1,8 +1,6 @@
 ---
 title: codemirror
-public: true
 ---
-
 ##
 ```javascript
 console.log("HI")
