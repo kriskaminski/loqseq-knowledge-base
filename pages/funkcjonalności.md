@@ -7,3 +7,5 @@ title: funkcjonalności
 ## [[odniesienia do bloków]]
 ## [[osadzanie bloków]]
 ## [[osadzanie stron]]
+## [[zadania]]
+##
