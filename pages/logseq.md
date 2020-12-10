@@ -14,8 +14,4 @@ title: Logseq
 ## Docelowo podobnie jak np. [[Tiddlywiki]] ma mieć formę pojedynczego pliku html, który można uruchomić lokalnie bądź umieścić na dowolnym serwerze
 ## [[Inspiracje]]
 ### {{{embed [[Inspiracje]] }}}
-## Logseq czerpie inspiracje następujących projektów
-### [[Roam Research]]
-### [[Tiddlywiki]]
-### [[Org mode]]
 ## Logseq ma dużo [[funkcjonalności]], które pomagają w budowaniu i rozwoju bazy wiedzy:
