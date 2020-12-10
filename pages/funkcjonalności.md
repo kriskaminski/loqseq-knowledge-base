@@ -5,7 +5,7 @@ title: funkcjonalności
 ## [[backlinki]] - tworzenie stron i dwustronnych odnośników w trakcie pisania
 ## [[tagi]] - #tagi działąją identycznie jak [[backlinki]]
 ## [[odniesienia do bloków]]
-## [[osadzanie bloków]]
+## [[bloki osadzone]]
 ## [[właściwości bloków]]
 ## [[bloki z kodem]]
 ## [[osadzanie stron]]

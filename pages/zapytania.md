@@ -2,4 +2,4 @@
 title: zapytania
 ---
 
-## Zapytania wyszukujące bloki tworzą [[osadzanie bloków]] 
+## Zapytania wyszukujące bloki tworzą [[bloki osadzone]] 
