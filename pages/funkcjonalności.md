@@ -15,4 +15,6 @@ title: funkcjonalności
 ## [[aliasy stron]]
 ## [[szablony]]
 ## [[motywy]]
+## [[makra]]
+## [[zapytania]]
 ##
