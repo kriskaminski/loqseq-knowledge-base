@@ -2,9 +2,9 @@
 title: objaśnienia
 ---
 
-## test tip 
+## Tip 
 #+BEGIN_TIP
-treść
+Wskazówki
 #+END_TIP
 ##
 #+BEGIN_TIP
