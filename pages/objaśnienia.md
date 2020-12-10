@@ -22,4 +22,3 @@ Na to należy zwrócić uwagę
 #+BEGIN_WARNING
 Uwaga, coś może być nie tak
 #+END_WARNING
-##
