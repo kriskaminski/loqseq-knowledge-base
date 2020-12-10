@@ -2,5 +2,5 @@
 title: Harry Potter
 ---
 
-## [[Ron]]
+## [[Ron Wesley]]
 ## [[Hermiona Granger]]
