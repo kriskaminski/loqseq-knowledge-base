@@ -13,7 +13,7 @@ title: templates test
 :props: working 
 :END:
 ###
-## Terryt
+## Terry
 :PROPERTIES:
 :author: Pratchett
 :book: all
