@@ -10,4 +10,4 @@ Wskazówki
 #+BEGIN_IMPORTANT
 Ważne informacje
 #+END_IMPORTANT
-##
+## Cautio
