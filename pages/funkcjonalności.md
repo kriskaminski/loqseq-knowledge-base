@@ -17,4 +17,5 @@ title: funkcjonalności
 ## [[motywy]]
 ## [[makra]]
 ## [[zapytania]]
+## [[latex]]
 ##
