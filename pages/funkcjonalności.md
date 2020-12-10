@@ -20,3 +20,4 @@ title: funkcjonalności
 ## [[makra]]
 ## [[zapytania]]
 ## [[latex]]
+## [[bloki z kodem]]
