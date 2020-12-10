@@ -2,8 +2,7 @@
 title: objaśnienia
 ---
 
-## tip
-+BEGIN_TIP
-tip
+## test tip #+BEGIN_TIP
+treść
 #+END_TIP
 ##
