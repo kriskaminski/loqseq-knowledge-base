@@ -12,7 +12,7 @@ title: funkcjonalności
 ## [[właściwości bloków]]
 ## [[prezentacje]]
 ## [[rysowanie]] - dzięki wykorzystaniu [[Excalidraw]]
-## [[]]
+## [[objaśnienia]] (eng. admonitions) to bloki
 ## [[aliasy stron]]
 ## [[szablony]]
 ## [[motywy]]
