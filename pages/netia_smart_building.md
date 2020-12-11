@@ -8,3 +8,5 @@ title: Netia Smart Building
 ## Szkolenie dla presalesów z integracji z systemami budynkowymi odnośnie samodzielnego wdrożenia i przygotowania zamówienia
 ## Jest umowa ramowa na standardową integrację
 ## Skrypt rozmowy - jak wygląda i
+## Testy na Baletowej są bez integracji z systemami Netii
+##
