@@ -10,4 +10,5 @@ title: Netia Smart Building
 ## Skrypt rozmowy - jak wygląda i
 ## Testy na Baletowej są bez integracji z systemami Netii
 ## Integracja z pocztą
-## Itegracja rezer
+## Itegracja rezerwacji sal w aplikacji
+##
