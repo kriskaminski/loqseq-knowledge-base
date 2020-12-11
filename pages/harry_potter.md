@@ -8,7 +8,7 @@ title: Harry Potter
 #+BEGIN_QUERY
 {:title "wszystkie książki"
  :query [:find ?name
-         :where
+## :where
          [?p :page/properties ?a]
          [?p :page/name ?name]]
  :inputs ["book"]
