@@ -9,7 +9,6 @@ title: Harry Potter
 {:title "wszystkie książki"
  :query [:find ?name
          :where
-         [?t :tag/name ?tag]
          [?p :page/properties ?a]
          [?p :page/name ?name]]
  :inputs ["book"]
