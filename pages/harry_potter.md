@@ -13,7 +13,7 @@ title: Harry Potter
          [?t :tag/name ?tag]
          [?p :page/tags ?t]
          [?p :page/name ?name]]
- :inputs ["programming"]
+ :inputs ["book"]
  :view (fn [result]
          [:div.flex.flex-col
           (for [page result]
