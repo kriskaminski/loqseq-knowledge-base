@@ -10,7 +10,7 @@ title: Harry Potter
  :query [:find ?name
          :where
          [?t :tag/name ?tag]
-         [?p :page/tags ?t]
+         [?p :page/properties ?a]
          [?p :page/name ?name]]
  :inputs ["book"]
  :view (fn [result]
