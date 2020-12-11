@@ -6,10 +6,12 @@ title: Harry Potter
 ## [[Hermiona Granger]]
 ##
 #+BEGIN_QUERY
-{:title "wszystkie książki"
+{:title "All pages have a *programming* property"
  :query [:find ?name
+         :in $ ?property
          :where
-         [?p :page/properties ?a]
+         [?t :property/name ?property]
+         [?p :page/properties ?t]
          [?p :page/name ?name]]
  :inputs ["book"]
  :view (fn [result]
