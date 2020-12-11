@@ -9,4 +9,5 @@ title: Netia Smart Building
 ## Jest umowa ramowa na standardową integrację
 ## Skrypt rozmowy - jak wygląda i
 ## Testy na Baletowej są bez integracji z systemami Netii
-##
+## Integracja z pocztą
+## Itegracja rezer
